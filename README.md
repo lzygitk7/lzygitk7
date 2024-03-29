@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lzygitk7
+- 👋 Hi, I’m lzykevin7@lzygitk7
 - 👀 I’m interested in the Protein language model
 - 🌱 I’m currently learning deep learning and large language model
 - 💞️ I’m looking to collaborate on BT & IT
