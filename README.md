@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lzykevin7@lzygitk7
 - 👀 I’m interested in the Protein language model
 - 🌱 I’m currently learning deep learning and large language model
-- 💞️ I’m looking an integration of BT & IT
+- 💞️ I’m looking for integration of BT & IT
 - 😄 Fun fact: BADMINTON MAKES ME PASSIONATE
 
 <!---
